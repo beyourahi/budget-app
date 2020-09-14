@@ -1,3 +1,3 @@
 # Budget App
 
-Check it out at => https://stupid-budgetapp.netlify.app/
+Check out the [Live Demo](https://stupid-budgetapp.netlify.app/) 
